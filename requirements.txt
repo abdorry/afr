@@ -1,0 +1,10 @@
+certifi
+https://github.com/KurimuzonAkuma/pyrogram/archive/v2.1.31.zip
+pyTelegramBotAPI
+kvsqlite
+telethon
+PyQt5==5.15.4
+opentele
+schedule
+user_agent
+aiosqlite
